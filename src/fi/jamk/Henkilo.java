@@ -10,5 +10,9 @@ package fi.jamk;
  * @author BlackDev
  */
 public class Henkilo {
+    private String etunimi;
+    private String sukunimi;
+    private int ikä;
+    private String maa;
     
 }
